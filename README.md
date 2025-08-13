@@ -4,12 +4,12 @@
 ## 🧐 The Challenge
 In a fast-paced business environment, revenue can silently slip through the cracks.  
 This project performs a **deep-dive analysis** of a company's transaction data to **identify and quantify passive revenue leaks**.  
-By pinpointing the **source, scale, and location** of these leaks, we provide actionable recommendations to **stop financial losses and boost profitability**.
+By pinpointing the **source, scale, and location** of these leaks, provided actionable recommendations to **stop financial losses and boost profitability**.
 
 ---
 
 ## 📊 The Data
-We analyzed the `passive_revenue_leak_finder_6000.csv` dataset, containing detailed transaction records, including:
+I analyzed the `passive_revenue_finder.csv` dataset, containing detailed transaction records, including:
 
 - **Transaction ID** – Unique identifier for each transaction
 - **Order Details** – Product information, quantity, and pricing
@@ -64,3 +64,20 @@ Based on the findings, we propose the following **five-point recovery plan**:
 
 ## 💡 Outcome
 This project identifies a **₹1,026,305.99** financial recovery opportunity and provides a **clear, data-backed roadmap** for a more **profitable and resilient business**.
+
+
+
+## 👩‍💻 About Me
+
+**Humera Shaik**  
+📊 Data Analyst | 🔍 Insight Generator | 🤖 AI automation
+
+📧 **Email**: humerah610@gmail.com  
+📱 **Phone**: +91 7382273550  
+
+🔗 [LinkedIn](https://www.linkedin.com/in/humera-shaik-dataanalyst/)
+) | 📄 [View My Resume](HS%20DA%2045.pdf)
+
+---
+
+*Python-Powered Profit.*
